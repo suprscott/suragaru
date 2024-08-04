@@ -19,7 +19,7 @@
 </div><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragaru&show_icons=true&locale=en&layout=compact" alt="suragaru" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragaru&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="suragaru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suragaru&show_icons=true&locale=en" alt="suragaru" /></p>
 
