@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suragaru" alt="suragaru" /></a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/suragarucoffee"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="170" alt="suragarucoffee" /></a></p><br/>
-
----
+<p><a href="https://ko-fi.com/suragarucoffee"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="170" alt="suragarucoffee" /></a></p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -27,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div><br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragaru&show_icons=true&locale=en&layout=compact" alt="suragaru" /></p>
