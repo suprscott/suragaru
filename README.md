@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suragaru&label=Profile%20views&color=0e75b6&style=flat" alt="suragaru" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suragaru" alt="suragaru" /></a> </p>
-
+---
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/suragarucoffee"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="170" alt="suragarucoffee" /></a></p>
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
