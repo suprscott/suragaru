@@ -8,7 +8,7 @@
 ---
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/suragarucoffee"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="170" alt="suragarucoffee" /></a></p>
+<p><a href="https://ko-fi.com/suragarucoffee"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="suragarucoffee" height="40" width="auto"/></a></p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
