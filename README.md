@@ -8,7 +8,8 @@
 ---
 
 <h3 align="left">Support:</h3>
-<a href='https://ko-fi.com/Q5Q4GPR1P' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/Q5Q4GPR1P' target='_blank'><img height='36' style='border:0px;height:40px; width=auto;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
