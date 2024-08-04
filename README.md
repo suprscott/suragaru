@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div><br>
+</div><br><br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragaru&show_icons=true&locale=en&layout=compact" alt="suragaru" /></p>
