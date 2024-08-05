@@ -1,3 +1,5 @@
 #test put here
-input("enter if you want extraordinaire badge!")
+import time
+input("enter if you want pair extraordinaire badge!")
+time.sleep(1)
 print("badge!")
