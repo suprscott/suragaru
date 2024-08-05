@@ -1,1 +1,1 @@
-#asdasdadadsasdadadsasd
+const pair = "extraordinaire badge"
